@@ -1,6 +1,6 @@
 //Name:Shrifal raina
 //Date:21-3-2021
-// purpose:A C Program for showing working of fgets() & puts().			© Ishav Verma 19/March/2021
+// purpose:A C Program for showing working of fgets() & puts().			
 #include <stdio.h>
 int main() 
 {
