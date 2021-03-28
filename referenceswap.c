@@ -1,4 +1,4 @@
-//Author: shrifal raina                                                                    @KD
+//Author: shrifal raina                                                                    
 //Purpose:C program to swap two number using call by reference
 // Creation date : 21-03-21 
 
